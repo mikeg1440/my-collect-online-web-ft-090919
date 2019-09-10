@@ -10,6 +10,6 @@ def my_collect(array)
     index += 1
   
   end
-  
+  collection
 end
 
