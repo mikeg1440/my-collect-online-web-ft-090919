@@ -1,13 +1,13 @@
 
 def my_collect(array)
   
-  count = 0
+  index = 0
   collection = []
   
-  while count < array.length
+  while index < array.length
   
-    yield(array[count])
-    count += 1
+    yield(array[index])
+    index += 1
   
   end
   
